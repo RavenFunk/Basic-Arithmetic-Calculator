@@ -1,12 +1,12 @@
 
 
-# <center> Basic Arithmetic Calculator 
-$${\color{brightgreen}\text{[ 100\% HUMAN MADE ]}}$$
-<center>Created: 7/20/2026  |                      
+# Basic Arithmetic Calculator 
+
+Created: 7/20/2026                    
 Author: Raven Funk
 
 My first ever project in Python.
-</center>
+
 
 
 
