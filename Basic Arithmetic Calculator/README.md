@@ -1,12 +1,18 @@
 
 
-# Basic Arithmetic Calculator
-Created: 7/20/2026
+# <center> Basic Arithmetic Calculator 
+$${\color{brightgreen}\text{[ 100\% HUMAN MADE ]}}$$
+<center>Created: 7/20/2026  |                      
 Author: Raven Funk
 
-
 My first ever project in Python.
+</center>
 
+
+
+## Built with
+ - Python (Standard Library)
+ - Open source documentation and my own trial-and-error.
 
 ## How to run:
 
@@ -21,14 +27,17 @@ This basic arithmetic calculator is capable of the following:
  - Subtraction
  - Multiplication
  - Division
- - Continuous calculation
- - "new" keyword
+ - Square roots
+ - Help command: Pulls up a list of useful commands and how to use the calculator.
+ - Quit/Exit command: Closes the calculator. ```[See Example Usage]```
+ - "New" keyword: Starts a brand new slate to enter calculations. ```[See Example Usage]```
+ - Continuous calculation: The ability to continuously calculate on previous outputs ```[See Example Usage]```
 
 
 ## Example Usage:
 ```text
 > 10 + 5
-5
+15
 
 > * 2
 30
@@ -38,8 +47,13 @@ This basic arithmetic calculator is capable of the following:
 > 90 + 10
 100
 
-> 
+> / 2
+50
+
+> Quit
+Goodbye!
 ```
+
 
 
 
