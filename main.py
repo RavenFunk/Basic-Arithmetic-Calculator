@@ -11,7 +11,7 @@ def sqrt(a):
     return math.sqrt(a)
 def power(a, b):
     return a**b
-
+ 
 def calculator():
     print("- - - - - - - - - - - - - - - - - - - - - - -\nInput 'help' to get a list of useful commands.")
     result = 0
