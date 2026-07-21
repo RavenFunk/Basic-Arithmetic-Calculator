@@ -82,4 +82,5 @@ def calculator():
             result = divide(first, second)
             print(result)
 
+
 calculator()
