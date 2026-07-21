@@ -1,30 +1,29 @@
 
 
-# Basic Arithmetic Calculator 
+# **Basic Arithmetic Calculator**
 
-```[100% HUMAN MADE]```  
+**[100% HUMAN MADE]**
 
-Created: 7/20/2026                    
-Author: Raven Funk
+**Created**: 7/20/2026                    
+**Author**: Raven Funk
 
-My first ever project in Python.
-
-
+*My first ever project in Python.*
 
 
-## Built with:
+
+
+## **Built with:**
  - Python (Standard Library)
  - Open source documentation and my own trial-and-error.
 
-## How to run:
+## **How to run:**
 
  - Ensure you have already installed Python.
 ```console
 python main.py
 ```
 
-## Capabilities:
-This basic arithmetic calculator is capable of the following:
+## **Capabilities:**
  - Addition
  - Subtraction
  - Multiplication
@@ -38,7 +37,7 @@ This basic arithmetic calculator is capable of the following:
  - Input handling: You can enter an invalid expression and the calculator will handle it accordingly.
 
 
-## Example usage:
+## **Example usage:**
 ```text
 > 10 + 5
 15
